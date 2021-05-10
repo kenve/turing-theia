@@ -1,0 +1,25 @@
+# dependency directories
+node_modules/
+
+# logs
+yarn-error.log
+npm-error.log
+
+# vscode
+.vscode
+
+# generated files
+.theia
+.eslintcache
+
+# macOS
+.DS_Store
+
+# tests
+coverage/
+
+# ide
+app/plugins/*
+lib
+src-gen
+gen-webpack.config.js
