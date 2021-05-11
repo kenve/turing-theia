@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1" viewBox="136 29 135 135" width="135" height="135">
+  <defs>
+    <linearGradient x1="0" x2="1" id="Gradient" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#517ea3"/>
+      <stop offset="1" stop-color="#293f51"/>
+    </linearGradient>
+    <linearGradient id="Obj_Gradient" xl:href="#Gradient" gradientTransform="translate(270.5 96.72701) rotate(180) scale(133.5)"/>
+    <font-face font-family="PingFang SC" font-size="94" panose-1="2 11 8 0 0 0 0 0 0 0" units-per-em="1000" underline-position="-150" underline-thickness="80" slope="0" x-height="600" cap-height="860" ascent="1060.0021" descent="-340.0007" font-weight="600">
+      <font-face-src>
+        <font-face-name name="PingFangSC-Semibold"/>
+      </font-face-src>
+    </font-face>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.11.5 
+    <dc:date>2021-05-10 15:46:22 +0000</dc:date>
+  </metadata>
+  <g id="版面___3" stroke-dasharray="none" fill-opacity="1" stroke="none" fill="none" stroke-opacity="1">
+    <title>版面 3</title>
+    <g id="版面___3: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_5">
+        <rect x="137" y="31" width="133.5" height="131.45402" fill="url(#Obj_Gradient)"/>
+        <text transform="translate(203.21967 2.8585863) rotate(45)" fill="white">
+          <tspan font-family="PingFang SC" font-size="94" font-weight="600" fill="white" x="37.845" y="100">T</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

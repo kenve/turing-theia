@@ -1,0 +1,25 @@
+.about-header {
+  display: block;
+  white-space: nowrap;
+  margin-block-end: 15px;
+  margin-block-start: 5px;
+}
+
+.about-logo {
+  display: flex;
+  justify-content: center;
+}
+
+.about-logo > img {
+  height: 100%;
+}
+
+.about-description {
+  margin: 8px;
+  text-align: center;
+  font-family: 'Roboto, sans-serif';
+  font-weight: 400;
+}
+.about-description > a {
+  color: var(--theia-editorWidget-foreground);
+}
