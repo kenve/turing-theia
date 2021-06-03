@@ -1,0 +1,6 @@
+.theia-icon {
+  background-image: var(--theia-menu-logo);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

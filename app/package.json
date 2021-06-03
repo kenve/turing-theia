@@ -53,7 +53,8 @@
     "@theia/variable-resolver": "latest",
     "@theia/vsx-registry": "latest",
     "@theia/workspace": "latest",
-    "@turing/about-extension": "0.1.0"
+    "@turing/about-extension": "0.1.0",
+    "@turing/branding-extension": "0.1.0"
   },
   "scripts": {
     "prepare": "yarn run clean && yarn build && yarn run download:plugins",
